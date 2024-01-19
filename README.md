@@ -3,11 +3,7 @@
             ````````````\===========================================/`````````````
             
         
-                                    ~o~  w e l c o m e  ~o~
-                                    
-                     
-                     questions + collaborations: secretfirecreative@gmail.com
-                     
+                                    ~o~  w e l c o m e  ~o~                     
                      
                           
                                     ---===<<<( 🔥 )>>>===---                                  
