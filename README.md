@@ -37,7 +37,7 @@
 
         - Seek truth in all things - pragmatically, fearlessly, and relentlessly. 
  
-        - Serve Anima as an agent of its will to cultivate, nurture, and perpertuate all 
+        - Serve Anima as an agent of its will to cultivate, nurture, and perpetuate all 
           of its components and processes, both physical and metaphysical.
    
         - Oppose Entropy defiantly, refusing to surrender to the forces that work to break
