@@ -1,9 +1,9 @@
 
-.                                ~o~  W E L C O M E  ~o~    
+                                 ~o~  W E L C O M E  ~o~    
 
                              To the personal GitHub profile of
 
-.                    ,,,,,,,,/------------------------------\,,,,,,,,,
+                     ,,,,,,,,/------------------------------\,,,,,,,,,
                   <<<<<<<<<<(   Z a c h a r y  W e a v e r   )>>>>>>>>>>
                        ``````\------------------------------/``````
                        
@@ -11,7 +11,7 @@
 
 
 
-.			         ~o~  A B O U T  ~o~
+ 			         ~o~  A B O U T  ~o~
 
 	Hello and welcome! My name is Zachary, and I've been dabbling in various forms 
  	of software development for over 20 years, dating back to when I first got my 
@@ -61,7 +61,7 @@
        
        	
 
-.			       ~o~  C O N T A C T  ~o~
+ 			       ~o~  C O N T A C T  ~o~
 
 			        z.secretfire@gmail.com
 
