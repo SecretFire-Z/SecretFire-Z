@@ -10,8 +10,8 @@
                                     --==<<( 🔥 )>>==--       
        
        	
-                              	  ~o~  C O N T A C T  ~o~
+                               ~o~  C O N T A C T  ~o~
 			       
-                        	   z.secretfire@gmail.com
+                        	z.secretfire@gmail.com
 
         
